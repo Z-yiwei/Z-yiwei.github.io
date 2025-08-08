@@ -9,3 +9,4 @@
 - D. Peng\*, **N. Zhu\***, T. Han, Z. Chen and C. Liu. “Unsupervised Anomaly Detection for Aircraft Pressure Regulated Shutoff Valves with Random Projection-based Inner Product Prediction”, in *IEEE Transactions on Instrumentation and Measurement*, 2025.
 
 - **N. Zhu**, J. Wang, Y. Zhang, H. Wang and T. Han, “An Adversarial Training Framework Based on Unsupervised Feature Reconstruction Constraints for Crystalline Silicon Solar Cells Anomaly Detection”, in *IEEE Transactions on Instrumentation and Measurement*, 2024.
+
