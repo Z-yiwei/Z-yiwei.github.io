@@ -1,3 +1,4 @@
+### **Scholarships**  
 - National Scholarship (Top 1.67%), Ministry of Education, 2024
 
 - National Scholarship (Top 1.67%), Ministry of Education, 2023
@@ -16,6 +17,9 @@
 
 - Comprehensive Quality Scholarship (Top 0.62%), Glasgow College, UESTC, 2024
 
+---
+
+### **Awards**  
 - National Gold Award, China International College Students’ Innovation Competition, 2024
 
 - Meritorious Award, COMAP's Mathematical Contest in Modeling and Interdisciplinary Contest in Modeling, 2024
