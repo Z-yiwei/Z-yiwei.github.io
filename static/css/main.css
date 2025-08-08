@@ -1,5 +1,8 @@
 @import "./styles.css";
 
+body {
+    font-family: "Times New Roman", Georgia, Garamond, Palatino, serif;
+}
 
 :root{
     --h-title-color:#3948d2;
