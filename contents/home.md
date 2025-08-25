@@ -1,4 +1,4 @@
-I am Ning Zhu, a junior undergraduate student pursuing a B.S. in Electronic Information Engineering at UESTC. With a strong foundation and research experience, I am passionate about machine learning theories and applications in computer vision tasks, especially in deep learning for medical image analysis. 
+I am Ning Zhu, a junior undergraduate student pursuing a B.S. in Electronic Information Engineering at UESTC (expected to graduate in 2026). With a strong foundation and research experience, I am passionate about machine learning theories and applications in computer vision tasks, especially in deep learning for medical image analysis. 
 
 #### Contact
 [\[Email\]](zhuning0519@gmail.com) 
