@@ -1,7 +1,6 @@
 #### 1. Cold-Start Active Learning for Medical Image Analysis
 - **N. Zhu**, P. Ye, L. Zhong, Q. Yue, S. Zhang and G. Wang, “CSAL-3D: Cold-start Active Learning for 3D Medical Image Segmentation via SSL-driven Uncertainty-Reinforced Diversity Sampling”, in *28th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2025)*, **Early Accept, Best Paper & Young Scientist Awards Shortlist**, 2025. 
 <br>[\[Code\]](https://github.com/HiLab-git/CSAL-3D) | [\[Paper\]](https://link.springer.com/chapter/10.1007/978-3-032-04937-7_12)
-<br>![Methodology](https://github.com/Z-yiwei/Z-yiwei.github.io/blob/main/contents/pub_imgs/csal_3d.jpg)
 
 - X. Ma, J. Fu, L. Zhong, **N. Zhu**, and G. Wang, “SUGFW: A SAM-based Uncertainty-guided Feature Weighting Framework for Cold Start Active Learning”, in *28th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2025)*, 2025. 
 <br>[\[Code\]](https://github.com/HiLab-git/SUGFW) | [\[Paper\]](https://link.springer.com/chapter/10.1007/978-3-032-04937-7_55)
