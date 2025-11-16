@@ -1,3 +1,5 @@
+Recent Update: This page is no longer maintained and please go to https://z-yiwei.github.io/zhuning_homepage/ for the current version. Thanks for your interest and attention!
+
 I am Ning Zhu, a junior undergraduate student pursuing a B.S. in Electronic Information Engineering at UESTC (expected to graduate in 2026). With a strong foundation and research experience, I am passionate about machine learning theories and applications in computer vision tasks, especially in deep learning for medical image analysis. 
 
 #### Contact
